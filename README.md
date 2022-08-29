@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+<!--me chamo Heloisa, estudo no colégio CEMACS etenho 14 anos, gosto de sair com minhas amigas e ir para academia, eu moro com 4 pessoas e tambem tenho 2 animais de estimação uma cachorra se chama Catarina e oum gato que se cham Dom.
 **catarina2007/catarina2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
